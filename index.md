@@ -7,6 +7,6 @@
 + I always saw a carrer in tech as a nice choice for my future
 + Thanks to Alura online courses I was able to learn the basics of Python
 + My hobbies include going for a run and also reading about History
-+ I am happy to say my friends describe as a smart and dependable guy!
++ I am happy to say my friends describe me as a smart and dependable guy!
 
 
